@@ -1,26 +1,25 @@
 # Read-from-CSV
 
 ## AIM:
-
+To find lenth of Rows and Colums using pandas.
 ## ALGORITHM:
 ### Step 1:
-
-import panda as pd
+Import panda as pd
 
 ### Step 2:
 
-For reading data swe put code.
+For reading data we put code.
 
 ### Step 3
 
-we give print(head(10)) to get a output of first 10 lines.
+We give print(head(10)) to get a output of first 10 lines.
 
 ### Step 4:
-we give print(tail()) to get a output of last 5 lines.
+We give print(tail()) to get a output of last 5 lines.
 
 ### Step 5:
 
-next we have to put code for gret length of row and column.
+Next we have to put code for gret length of row and column.
 
 ## PROGRAM:
 ##Name : P Shobika
@@ -35,3 +34,4 @@ print("Rows",len(df.axes[1]))
 ## OUTPUT:
 ![GitHub Logo](.//img2.png)
 ## RESULT:
+Successfully found the length of Rows and Columns using pandas
