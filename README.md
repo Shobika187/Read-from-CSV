@@ -22,6 +22,7 @@ We give print(tail()) to get a output of last 5 lines.
 Next we have to put code for gret length of row and column.
 
 ## PROGRAM:
+```
 ##Name : P Shobika
 ##Reg No: 212221230096
 import pandas as pd
@@ -30,7 +31,7 @@ print(df.head())
 print(df.tail())
 print("Column",len(df.axes[0]))
 print("Rows",len(df.axes[1]))
-
+```
 ## OUTPUT:
 ![GitHub Logo](.//img2.png)
 ## RESULT:
